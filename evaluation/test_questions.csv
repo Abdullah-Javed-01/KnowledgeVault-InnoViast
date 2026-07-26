@@ -1,0 +1,11 @@
+id,category,question,expected_keywords,expected_pages,expect_fallback
+1,Objective,What is the objective of this assignment?,Retrieval-Augmented|Knowledge Assistant|chatbot|uploaded|predefined,1,false
+2,Deliverables,What are the required deliverables?,architecture diagram|chatbot prototype|knowledge base documents|evaluation sheet|README|AI_USAGE,1,false
+3,Tools,Which tools are suggested?,LangChain|LlamaIndex|Chroma|Supabase|Pinecone|Streamlit|React,1,false
+4,Quality,What is the quality bar for the assistant?,grounded|knowledge base|unsupported facts|source references|fallback,1,false
+5,Repository,What naming format should be used for the GitHub repository?,ProjectName-InnoViast,1,false
+6,Working Rules,How may AI tools be used during the project?,ideation|debugging|UI suggestions|documentation|understand,2,false
+7,Security,Can API keys and passwords be committed to GitHub?,No|API keys|passwords|not be committed|GitHub,2,false
+8,Evaluation,What percentage is assigned to project functionality?,30%,2,false
+9,Fallback,What is the capital of Japan?,,0,true
+10,Fallback,Who won the latest football World Cup?,,0,true

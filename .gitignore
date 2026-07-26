@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Uploaded user documents
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Local vector database
+data/chroma_db/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Large media and archive files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
