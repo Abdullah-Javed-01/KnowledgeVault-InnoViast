@@ -265,8 +265,8 @@ qwen2.5:3b
 
 ### 1. Clone the repository
 
-
-[git clone <YOUR-GITHUB-REPOSITORY-URL>](https://github.com/Abdullah-Javed-01/KnowledgeVault-InnoViast)
+```powershell
+git clone https://github.com/Abdullah-Javed-01/KnowledgeVault-InnoViast.git
 cd KnowledgeVault-InnoViast
 
 
