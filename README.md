@@ -268,7 +268,7 @@ qwen2.5:3b
 ```powershell
 git clone https://github.com/Abdullah-Javed-01/KnowledgeVault-InnoViast.git
 cd KnowledgeVault-InnoViast
-
+```
 
 ### 2. Create a virtual environment
 
