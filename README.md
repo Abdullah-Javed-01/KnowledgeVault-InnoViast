@@ -18,7 +18,7 @@ KnowledgeVault also includes multi-document support, unsupported-question fallba
 
 ## Project Overview
 
-KnowledgeVault was developed for the INNOVIAST AI Solutions Engineering Internship Week 4 assignment.
+KnowledgeVault was developed for the INNOVIAST AI Chatbot Developer Internship Week 4 assignment.
 
 The project demonstrates a complete local RAG workflow using:
 
@@ -265,10 +265,10 @@ qwen2.5:3b
 
 ### 1. Clone the repository
 
-```powershell
+
 [git clone <YOUR-GITHUB-REPOSITORY-URL>](https://github.com/Abdullah-Javed-01/KnowledgeVault-InnoViast)
 cd KnowledgeVault-InnoViast
-```
+
 
 ### 2. Create a virtual environment
 
